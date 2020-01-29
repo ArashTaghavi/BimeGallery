@@ -1,0 +1,21 @@
+.required:after {
+    content: " *";
+    color: red !important;
+}
+
+
+.no-input {
+    border: none !important;
+    background: transparent;
+}
+
+.table-text-center td, .table-text-center th {
+    text-align: center;
+}
+
+td, th {
+    text-align: center !important;
+}
+.pm_text_menu_item{
+    text-align: right !important;
+}
