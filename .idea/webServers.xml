@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2fbe4497-cc2d-4364-9433-119f7fbcc4ce" name="Gallery" url="95.217.52.109">
+        <fileTransfer host="95.217.52.109" port="2961" rootFolder="/home/fibocoin/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2961" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

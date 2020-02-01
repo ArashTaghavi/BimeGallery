@@ -47855,52 +47855,52 @@ var router = new vue_router__WEBPACK_IMPORTED_MODULE_1__["default"]({
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.router = router; //  ================== Components  ==================
 
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('submit', function () {
-  return __webpack_require__.e(/*! import() */ 13).then(__webpack_require__.bind(null, /*! ./../common/Components/SubmitButton */ "./resources/assets/common/Components/SubmitButton.vue"));
+  return __webpack_require__.e(/*! import() */ 14).then(__webpack_require__.bind(null, /*! ./../common/Components/SubmitButton */ "./resources/assets/common/Components/SubmitButton.vue"));
 });
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('card', function () {
-  return __webpack_require__.e(/*! import() */ 3).then(__webpack_require__.bind(null, /*! ./../common/Components/Card */ "./resources/assets/common/Components/Card.vue"));
+  return __webpack_require__.e(/*! import() */ 4).then(__webpack_require__.bind(null, /*! ./../common/Components/Card */ "./resources/assets/common/Components/Card.vue"));
 });
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('cropper-portlet', function () {
-  return __webpack_require__.e(/*! import() */ 4).then(__webpack_require__.bind(null, /*! ./../common/Components/CropperPortlet */ "./resources/assets/common/Components/CropperPortlet.vue"));
+  return __webpack_require__.e(/*! import() */ 5).then(__webpack_require__.bind(null, /*! ./../common/Components/CropperPortlet */ "./resources/assets/common/Components/CropperPortlet.vue"));
 });
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('portlet-button', function () {
-  return __webpack_require__.e(/*! import() */ 12).then(__webpack_require__.bind(null, /*! ./../common/Components/PortletButton */ "./resources/assets/common/Components/PortletButton.vue"));
+  return __webpack_require__.e(/*! import() */ 13).then(__webpack_require__.bind(null, /*! ./../common/Components/PortletButton */ "./resources/assets/common/Components/PortletButton.vue"));
 });
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('portlet-file-input', function () {
-  return __webpack_require__.e(/*! import() */ 0).then(__webpack_require__.bind(null, /*! ./../common/Components/PortletFileInput */ "./resources/assets/common/Components/PortletFileInput.vue"));
+  return Promise.all(/*! import() */[__webpack_require__.e(0), __webpack_require__.e(1)]).then(__webpack_require__.bind(null, /*! ./../common/Components/PortletFileInput */ "./resources/assets/common/Components/PortletFileInput.vue"));
 });
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('cropper-tools', function () {
-  return __webpack_require__.e(/*! import() */ 5).then(__webpack_require__.bind(null, /*! ./../common/Components/CropperTools */ "./resources/assets/common/Components/CropperTools.vue"));
+  return __webpack_require__.e(/*! import() */ 6).then(__webpack_require__.bind(null, /*! ./../common/Components/CropperTools */ "./resources/assets/common/Components/CropperTools.vue"));
 });
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('ui-button', function () {
-  return __webpack_require__.e(/*! import() */ 14).then(__webpack_require__.bind(null, /*! ./../common/Components/UiButton */ "./resources/assets/common/Components/UiButton.vue"));
+  return __webpack_require__.e(/*! import() */ 15).then(__webpack_require__.bind(null, /*! ./../common/Components/UiButton */ "./resources/assets/common/Components/UiButton.vue"));
 });
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('loading', function () {
-  return __webpack_require__.e(/*! import() */ 1).then(__webpack_require__.bind(null, /*! ./../common/Components/Loading */ "./resources/assets/common/Components/Loading.vue"));
+  return Promise.all(/*! import() */[__webpack_require__.e(0), __webpack_require__.e(2)]).then(__webpack_require__.bind(null, /*! ./../common/Components/Loading */ "./resources/assets/common/Components/Loading.vue"));
 });
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('not-found', function () {
-  return __webpack_require__.e(/*! import() */ 11).then(__webpack_require__.bind(null, /*! ./../common/Components/NotFound */ "./resources/assets/common/Components/NotFound.vue"));
+  return __webpack_require__.e(/*! import() */ 12).then(__webpack_require__.bind(null, /*! ./../common/Components/NotFound */ "./resources/assets/common/Components/NotFound.vue"));
 });
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('edit-btn', function () {
-  return __webpack_require__.e(/*! import() */ 8).then(__webpack_require__.bind(null, /*! ./../common/Components/EditButton */ "./resources/assets/common/Components/EditButton.vue"));
+  return __webpack_require__.e(/*! import() */ 9).then(__webpack_require__.bind(null, /*! ./../common/Components/EditButton */ "./resources/assets/common/Components/EditButton.vue"));
 });
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('delete-btn', function () {
-  return __webpack_require__.e(/*! import() */ 6).then(__webpack_require__.bind(null, /*! ./../common/Components/DeleteButton */ "./resources/assets/common/Components/DeleteButton.vue"));
+  return __webpack_require__.e(/*! import() */ 7).then(__webpack_require__.bind(null, /*! ./../common/Components/DeleteButton */ "./resources/assets/common/Components/DeleteButton.vue"));
 });
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('add-btn', function () {
-  return __webpack_require__.e(/*! import() */ 2).then(__webpack_require__.bind(null, /*! ./../common/Components/AddButton */ "./resources/assets/common/Components/AddButton.vue"));
+  return __webpack_require__.e(/*! import() */ 3).then(__webpack_require__.bind(null, /*! ./../common/Components/AddButton */ "./resources/assets/common/Components/AddButton.vue"));
 });
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('detail-btn', function () {
-  return __webpack_require__.e(/*! import() */ 7).then(__webpack_require__.bind(null, /*! ./../common/Components/DetailButton */ "./resources/assets/common/Components/DetailButton.vue"));
+  return __webpack_require__.e(/*! import() */ 8).then(__webpack_require__.bind(null, /*! ./../common/Components/DetailButton */ "./resources/assets/common/Components/DetailButton.vue"));
 });
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('icon-btn', function () {
-  return __webpack_require__.e(/*! import() */ 9).then(__webpack_require__.bind(null, /*! ./../common/Components/IconButton */ "./resources/assets/common/Components/IconButton.vue"));
+  return __webpack_require__.e(/*! import() */ 10).then(__webpack_require__.bind(null, /*! ./../common/Components/IconButton */ "./resources/assets/common/Components/IconButton.vue"));
 });
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('link-btn', function () {
-  return __webpack_require__.e(/*! import() */ 10).then(__webpack_require__.bind(null, /*! ./../common/Components/LinkButton */ "./resources/assets/common/Components/LinkButton.vue"));
+  return __webpack_require__.e(/*! import() */ 11).then(__webpack_require__.bind(null, /*! ./../common/Components/LinkButton */ "./resources/assets/common/Components/LinkButton.vue"));
 });
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('vue-dropzone', function () {
-  return __webpack_require__.e(/*! import() */ 15).then(__webpack_require__.t.bind(null, /*! vue2-dropzone */ "./node_modules/vue2-dropzone/dist/vue2Dropzone.js", 7));
+  return __webpack_require__.e(/*! import() */ 16).then(__webpack_require__.t.bind(null, /*! vue2-dropzone */ "./node_modules/vue2-dropzone/dist/vue2Dropzone.js", 7));
 }); //  ================== Run Application  ==================
 
 
@@ -48139,26 +48139,14 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./resources/sass/app.scss":
-/*!*********************************!*\
-  !*** ./resources/sass/app.scss ***!
-  \*********************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-// removed by extract-text-webpack-plugin
-
-/***/ }),
-
 /***/ 0:
-/*!***********************************************************************!*\
-  !*** multi ./resources/assets/Admin/app.js ./resources/sass/app.scss ***!
-  \***********************************************************************/
+/*!*********************************************!*\
+  !*** multi ./resources/assets/Admin/app.js ***!
+  \*********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\xampp\htdocs\bime_gallery\resources\assets\Admin\app.js */"./resources/assets/Admin/app.js");
-module.exports = __webpack_require__(/*! C:\xampp\htdocs\bime_gallery\resources\sass\app.scss */"./resources/sass/app.scss");
+module.exports = __webpack_require__(/*! C:\xampp\htdocs\bime_gallery\resources\assets\Admin\app.js */"./resources/assets/Admin/app.js");
 
 
 /***/ })
